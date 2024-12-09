@@ -11,7 +11,7 @@ const Home = () => {
 
   return (
     <div>
-            <h2>Hello user welcome to Dashboard</h2>
+            <h2>Hello user welcome to your Homepage</h2>
             <h3>This page is protected</h3><br />
             <button onClick={goToProduct}>Products</button>
             <br />
